@@ -1,0 +1,37 @@
+[16:55:55:443] [INFO] - Client: Send Invitation To [111111]
+[16:55:55:460] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[16:55:55:460] [INFO] - Client: msg: aaaaaa invites you to edit file /aaaaaa/test.txt
+[16:55:56:545] [INFO] - Client: Accept Invitation.
+[16:55:56:550] [INFO] - Client: serverResponse: recieved file bytes from server.
+[16:55:56:550] [INFO] - Client: create temporary file src/client/Users/aaaaaa/concurrentEdit/test.txt
+[16:55:56:552] [INFO] - Client: Close invite confirm Page
+[16:55:56:552] [INFO] - Client: Open file edit page
+[16:56:03:736] [INFO] - Client: editUpdate
+[16:56:03:736] [INFO] - Client: push change in test.txt successfully.
+[16:56:09:246] [INFO] - Client: aaaaaa quit the concurrent editing
+[16:56:09:249] [INFO] - Client: someone quit and update the file
+[16:56:27:505] [INFO] - Client: Send Invitation To [111111]
+[16:56:27:510] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[16:56:27:510] [INFO] - Client: msg: aaaaaa invites you to edit file /aaaaaa/test.txt
+[16:56:28:436] [INFO] - Client: Accept Invitation.
+[16:56:28:440] [INFO] - Client: serverResponse: recieved file bytes from server.
+[16:56:28:440] [INFO] - Client: create temporary file src/client/Users/aaaaaa/concurrentEdit/test.txt
+[16:56:28:441] [INFO] - Client: Close invite confirm Page
+[16:56:28:442] [INFO] - Client: Open file edit page
+[16:56:37:295] [INFO] - Client: push change
+[16:56:37:301] [INFO] - Client: editUpdate
+[16:56:37:302] [INFO] - Client: push change in test.txt successfully.
+[16:56:45:890] [INFO] - Client: push change
+[16:56:45:896] [INFO] - Client: editUpdate
+[16:56:45:896] [INFO] - Client: push change in test.txt successfully.
+[16:56:56:394] [INFO] - Client: aaaaaa quit the concurrent editing
+[16:56:56:397] [INFO] - Client: someone quit and update the file
+[16:57:16:093] [INFO] - Client: Send Invitation To [111111]
+[16:57:16:096] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[16:57:16:096] [INFO] - Client: msg: aaaaaa invites you to edit file /aaaaaa/test.txt
+[16:57:16:970] [INFO] - Client: Accept Invitation.
+[16:57:16:973] [INFO] - Client: serverResponse: recieved file bytes from server.
+[16:57:16:974] [INFO] - Client: create temporary file src/client/Users/aaaaaa/concurrentEdit/test.txt
+[16:57:16:975] [INFO] - Client: Close invite confirm Page
+[16:57:16:975] [INFO] - Client: Open file edit page
+[16:57:27:061] [INFO] - Client: aaaaaa quit the concurrent editing

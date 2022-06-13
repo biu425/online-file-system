@@ -1,0 +1,333 @@
+[17:57:31:868] [INFO] - Server: Received concurrent editing request.
+[17:57:42:219] [INFO] - Server: Received concurrent editing request.
+[18:57:49:329] [INFO] - Server: Received login message.
+[18:57:49:399] [INFO] - Server: Received message for viewing folder contents.
+[18:57:49:483] [INFO] - Server: Received download file message.
+[18:57:49:484] [INFO] - Server: Download successfully.
+[18:57:49:523] [INFO] - Server: Received download file message.
+[18:57:49:524] [INFO] - Server: Download successfully.
+[18:57:49:737] [INFO] - Server: Received download file message.
+[18:57:49:739] [INFO] - Server: Download successfully.
+[18:57:52:234] [INFO] - Server: Received login message.
+[18:58:00:706] [INFO] - Server: Received signup message.
+[18:58:01:511] [INFO] - Server: Received login message.
+[18:58:01:573] [INFO] - Server: Received message for viewing folder contents.
+[18:58:01:579] [INFO] - Server: Received download file message.
+[18:58:01:580] [INFO] - Server: Download successfully.
+[18:58:08:131] [INFO] - Server: Received download file message.
+[18:58:08:134] [INFO] - Server: Download successfully.
+[18:58:15:108] [INFO] - Server: Received concurrent editing request.
+[18:58:16:556] [INFO] - Server: Received concurrent editing request.
+[18:58:17:852] [INFO] - Server: Received concurrent editing request.
+[18:59:04:684] [INFO] - Server: Received signup message.
+[18:59:13:435] [INFO] - Server: Received login message.
+[18:59:13:496] [INFO] - Server: Received message for viewing folder contents.
+[18:59:13:726] [INFO] - Server: Received download file message.
+[18:59:13:730] [INFO] - Server: Download successfully.
+[18:59:17:967] [INFO] - Server: Received download file message.
+[18:59:17:975] [INFO] - Server: Download successfully.
+[18:59:26:799] [INFO] - Server: Received message for viewing folder contents.
+[18:59:26:863] [INFO] - Server: Received download file message.
+[18:59:26:866] [INFO] - Server: Download successfully.
+[18:59:26:932] [INFO] - Server: Received upload file message.
+[18:59:26:935] [INFO] - Server: Upload file successfully.
+[18:59:31:600] [INFO] - Server: Received message for creating new file/folder.
+[18:59:31:603] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile/src/server/allfiles/user101/new.txt successfully.
+[18:59:31:660] [INFO] - Server: Received message for viewing folder contents.
+[18:59:31:693] [INFO] - Server: Received download file message.
+[18:59:31:698] [INFO] - Server: Download successfully.
+[18:59:31:752] [INFO] - Server: Received download file message.
+[18:59:31:754] [INFO] - Server: Download successfully.
+[18:59:32:966] [INFO] - Server: Received download file message.
+[18:59:32:969] [INFO] - Server: Download successfully.
+[18:59:37:966] [INFO] - Server: Received concurrent editing request.
+[19:02:25:793] [INFO] - Server: Received login message.
+[19:02:27:670] [INFO] - Server: Received login message.
+[19:02:27:706] [INFO] - Server: Received message for viewing folder contents.
+[19:02:27:733] [INFO] - Server: Received download file message.
+[19:02:27:733] [INFO] - Server: Download successfully.
+[19:02:34:597] [INFO] - Server: Received login message.
+[19:02:34:688] [INFO] - Server: Received message for viewing folder contents.
+[19:02:34:751] [INFO] - Server: Received download file message.
+[19:02:34:753] [INFO] - Server: Download successfully.
+[19:02:36:696] [INFO] - Server: Received download file message.
+[19:02:36:698] [INFO] - Server: Download successfully.
+[19:02:42:794] [INFO] - Server: Received concurrent editing request.
+[19:02:45:251] [INFO] - Server: Received concurrent editing request.
+[19:02:45:936] [INFO] - Server: Received concurrent editing request.
+[19:03:12:132] [INFO] - Server: Received concurrent editing request.
+[19:03:18:460] [INFO] - Server: Received concurrent editing request.
+[19:03:20:221] [INFO] - Server: Received message for viewing folder contents.
+[19:03:20:226] [INFO] - Server: Received download file message.
+[19:03:20:227] [INFO] - Server: Download successfully.
+[19:03:20:255] [INFO] - Server: Received concurrent editing request.
+[19:03:23:088] [INFO] - Server: Received message for viewing folder contents.
+[19:03:23:121] [INFO] - Server: Received download file message.
+[19:03:23:122] [INFO] - Server: Download successfully.
+[19:03:23:301] [INFO] - Server: Received concurrent editing request.
+[19:03:24:528] [INFO] - Server: Received download file message.
+[19:03:24:530] [INFO] - Server: Download successfully.
+[19:05:23:371] [INFO] - Server: Received signup message.
+[19:05:23:376] [WARN] - Server: Warning: This username is already in use!
+[19:05:25:031] [INFO] - Server: Received signup message.
+[19:05:25:032] [WARN] - Server: Warning: This username is already in use!
+[19:05:29:230] [INFO] - Server: Received signup message.
+[19:05:29:232] [WARN] - Server: Warning: This username is already in use!
+[19:06:23:484] [INFO] - Server: Received signup message.
+[19:06:25:946] [INFO] - Server: Received signup message.
+[19:06:27:811] [INFO] - Server: Received login message.
+[19:06:28:164] [INFO] - Server: Received message for viewing folder contents.
+[19:06:28:382] [INFO] - Server: Received download file message.
+[19:06:28:383] [INFO] - Server: Download successfully.
+[19:06:28:714] [INFO] - Server: Received signup message.
+[19:06:28:714] [WARN] - Server: Warning: This username is already in use!
+[19:06:28:735] [INFO] - Server: Received login message.
+[19:06:28:832] [INFO] - Server: Received message for viewing folder contents.
+[19:06:28:867] [INFO] - Server: Received download file message.
+[19:06:28:868] [INFO] - Server: Download successfully.
+[19:06:43:248] [INFO] - Server: Received signup message.
+[19:06:44:348] [INFO] - Server: Received login message.
+[19:06:44:389] [INFO] - Server: Received message for viewing folder contents.
+[19:06:44:394] [INFO] - Server: Received download file message.
+[19:06:44:395] [INFO] - Server: Download successfully.
+[19:07:08:597] [INFO] - Server: Received message for creating new file/folder.
+[19:07:08:600] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile_final/src/server/allfiles/visitor/test_txt.txt successfully.
+[19:07:08:727] [INFO] - Server: Received message for viewing folder contents.
+[19:07:09:031] [INFO] - Server: Received download file message.
+[19:07:09:033] [INFO] - Server: Download successfully.
+[19:07:09:146] [INFO] - Server: Received download file message.
+[19:07:09:150] [INFO] - Server: Download successfully.
+[19:07:17:603] [INFO] - Server: Received message for creating new file/folder.
+[19:07:17:606] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile_final/src/server/allfiles/visitor1/testFolder successfully.
+[19:07:17:624] [INFO] - Server: Received upload file message.
+[19:07:17:625] [ERROR] - Server: Upload file failed.
+[19:07:18:863] [INFO] - Server: Received message for viewing folder contents.
+[19:07:18:869] [INFO] - Server: Received download file message.
+[19:07:18:869] [INFO] - Server: Download successfully.
+[19:07:19:784] [INFO] - Server: Received message for viewing folder contents.
+[19:07:19:883] [INFO] - Server: Received message for creating new file/folder.
+[19:07:19:884] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile_final/src/server/allfiles/visitor/test successfully.
+[19:07:19:989] [INFO] - Server: Received message for viewing folder contents.
+[19:07:20:076] [INFO] - Server: Received download file message.
+[19:07:20:077] [INFO] - Server: Download successfully.
+[19:07:20:159] [INFO] - Server: Received download file message.
+[19:07:20:161] [INFO] - Server: Download successfully.
+[19:07:32:465] [INFO] - Server: Received message for creating new file/folder.
+[19:07:32:466] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile_final/src/server/allfiles/visitor/testupload successfully.
+[19:07:32:557] [INFO] - Server: Received message for creating new file/folder.
+[19:07:32:558] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile_final/src/server/allfiles/visitor/testupload/test successfully.
+[19:07:32:682] [INFO] - Server: Received upload file message.
+[19:07:32:683] [INFO] - Server: Upload file successfully.
+[19:07:32:772] [INFO] - Server: Received message for viewing folder contents.
+[19:07:33:003] [INFO] - Server: Received download file message.
+[19:07:33:004] [INFO] - Server: Download successfully.
+[19:07:33:092] [INFO] - Server: Received download file message.
+[19:07:33:094] [INFO] - Server: Download successfully.
+[19:07:38:592] [INFO] - Server: Received upload file message.
+[19:07:38:593] [INFO] - Server: Upload file successfully.
+[19:07:38:596] [INFO] - Server: Received message for viewing folder contents.
+[19:07:38:599] [INFO] - Server: Received download file message.
+[19:07:38:600] [INFO] - Server: Download successfully.
+[19:07:45:743] [INFO] - Server: Received download file message.
+[19:07:45:747] [INFO] - Server: Download successfully.
+[19:07:53:637] [INFO] - Server: Received concurrent editing request.
+[19:07:55:788] [INFO] - Server: Received concurrent editing request.
+[19:07:58:786] [INFO] - Server: Received concurrent editing request.
+[19:08:03:522] [INFO] - Server: Received concurrent editing request.
+[19:08:07:157] [INFO] - Server: Received concurrent editing request.
+[19:08:09:327] [INFO] - Server: Received message for viewing folder contents.
+[19:08:09:330] [INFO] - Server: Received download file message.
+[19:08:09:331] [INFO] - Server: Download successfully.
+[19:08:09:351] [INFO] - Server: Received concurrent editing request.
+[19:08:11:734] [INFO] - Server: Received concurrent editing request.
+[19:08:11:742] [INFO] - Server: Received message for viewing folder contents.
+[19:08:11:824] [INFO] - Server: Received download file message.
+[19:08:11:825] [INFO] - Server: Download successfully.
+[19:08:11:902] [INFO] - Server: Received download file message.
+[19:08:11:906] [INFO] - Server: Download successfully.
+[19:08:14:081] [INFO] - Server: Received message for viewing folder contents.
+[19:08:14:167] [INFO] - Server: Received download file message.
+[19:08:14:169] [INFO] - Server: Download successfully.
+[19:08:14:246] [INFO] - Server: Received download file message.
+[19:08:14:247] [INFO] - Server: Download successfully.
+[19:08:16:294] [INFO] - Server: Received download file message.
+[19:08:16:296] [INFO] - Server: Download successfully.
+[19:08:25:957] [INFO] - Server: Received upload file message.
+[19:08:25:960] [INFO] - Server: Upload file successfully.
+[19:08:26:043] [INFO] - Server: Received message for viewing folder contents.
+[19:08:26:133] [INFO] - Server: Received download file message.
+[19:08:26:134] [INFO] - Server: Download successfully.
+[19:08:26:208] [INFO] - Server: Received download file message.
+[19:08:26:211] [INFO] - Server: Download successfully.
+[19:08:46:000] [INFO] - Server: Received download file message.
+[19:08:46:001] [INFO] - Server: Download successfully.
+[19:08:48:298] [INFO] - Server: Received message for viewing folder contents.
+[19:08:48:333] [INFO] - Server: Received download file message.
+[19:08:48:335] [INFO] - Server: Download successfully.
+[19:08:48:531] [INFO] - Server: Received upload file message.
+[19:08:48:533] [INFO] - Server: Upload file successfully.
+[20:21:28:143] [INFO] - Server: Received signup message.
+[20:21:34:318] [INFO] - Server: Received signup message.
+[20:21:36:116] [INFO] - Server: Received login message.
+[20:21:36:218] [INFO] - Server: Received message for viewing folder contents.
+[20:21:36:584] [INFO] - Server: Received download file message.
+[20:21:36:585] [INFO] - Server: Download successfully.
+[20:21:36:990] [INFO] - Server: Received login message.
+[20:21:37:027] [INFO] - Server: Received message for viewing folder contents.
+[20:21:37:032] [INFO] - Server: Received download file message.
+[20:21:37:033] [INFO] - Server: Download successfully.
+[20:21:59:910] [INFO] - Server: Received download file message.
+[20:21:59:911] [INFO] - Server: Download successfully.
+[20:22:02:117] [INFO] - Server: Received message for viewing folder contents.
+[20:22:02:129] [INFO] - Server: Received download file message.
+[20:22:02:130] [INFO] - Server: Download successfully.
+[20:22:02:161] [INFO] - Server: Received upload file message.
+[20:22:02:162] [INFO] - Server: Upload file successfully.
+[20:22:15:947] [INFO] - Server: Received message for creating new file/folder.
+[20:22:15:948] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile_final/src/server/allfiles/visitor/createFile.txt successfully.
+[20:22:15:966] [INFO] - Server: Received message for viewing folder contents.
+[20:22:15:973] [INFO] - Server: Received download file message.
+[20:22:15:975] [INFO] - Server: Download successfully.
+[20:22:15:984] [INFO] - Server: Received download file message.
+[20:22:15:986] [INFO] - Server: Download successfully.
+[20:22:17:727] [INFO] - Server: Received download file message.
+[20:22:17:736] [INFO] - Server: Download successfully.
+[20:22:19:081] [INFO] - Server: Received message for viewing folder contents.
+[20:22:19:091] [INFO] - Server: Received download file message.
+[20:22:19:091] [INFO] - Server: Download successfully.
+[20:22:19:100] [INFO] - Server: Received download file message.
+[20:22:19:101] [INFO] - Server: Download successfully.
+[20:22:19:134] [INFO] - Server: Received upload file message.
+[20:22:19:135] [INFO] - Server: Upload file successfully.
+[20:22:30:167] [INFO] - Server: Received message for creating new file/folder.
+[20:22:30:168] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile_final/src/server/allfiles/visitor/createFolder successfully.
+[20:22:30:193] [INFO] - Server: Received message for viewing folder contents.
+[20:22:30:201] [INFO] - Server: Received download file message.
+[20:22:30:201] [INFO] - Server: Download successfully.
+[20:22:30:205] [INFO] - Server: Received download file message.
+[20:22:30:205] [INFO] - Server: Download successfully.
+[20:22:32:023] [INFO] - Server: Received message for viewing folder contents.
+[20:22:34:074] [INFO] - Server: Received message for viewing folder contents.
+[20:22:34:080] [INFO] - Server: Received download file message.
+[20:22:34:081] [INFO] - Server: Download successfully.
+[20:22:34:085] [INFO] - Server: Received download file message.
+[20:22:34:086] [INFO] - Server: Download successfully.
+[20:22:43:389] [INFO] - Server: Received message for creating new file/folder.
+[20:22:43:390] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile_final/src/server/allfiles/visitor/testFolder successfully.
+[20:22:43:396] [INFO] - Server: Received upload file message.
+[20:22:43:397] [ERROR] - Server: Upload file failed.
+[20:22:45:129] [INFO] - Server: Received message for viewing folder contents.
+[20:22:45:139] [INFO] - Server: Received download file message.
+[20:22:45:141] [INFO] - Server: Download successfully.
+[20:22:45:144] [INFO] - Server: Received download file message.
+[20:22:45:144] [INFO] - Server: Download successfully.
+[20:22:49:905] [INFO] - Server: Received message for viewing folder contents.
+[20:22:52:054] [INFO] - Server: Received message for viewing folder contents.
+[20:22:52:066] [INFO] - Server: Received download file message.
+[20:22:52:067] [INFO] - Server: Download successfully.
+[20:22:52:075] [INFO] - Server: Received download file message.
+[20:22:52:076] [INFO] - Server: Download successfully.
+[20:22:53:775] [INFO] - Server: Received message for viewing folder contents.
+[20:23:01:952] [INFO] - Server: Received upload file message.
+[20:23:01:953] [INFO] - Server: Upload file successfully.
+[20:23:01:957] [INFO] - Server: Received message for viewing folder contents.
+[20:23:01:960] [INFO] - Server: Received download file message.
+[20:23:01:960] [INFO] - Server: Download successfully.
+[20:23:04:015] [INFO] - Server: Received download file message.
+[20:23:04:017] [INFO] - Server: Download successfully.
+[20:23:06:110] [INFO] - Server: Received message for viewing folder contents.
+[20:23:06:118] [INFO] - Server: Received download file message.
+[20:23:06:118] [INFO] - Server: Download successfully.
+[20:23:06:133] [INFO] - Server: Received upload file message.
+[20:23:06:134] [INFO] - Server: Upload file successfully.
+[20:23:07:997] [INFO] - Server: Received message for viewing folder contents.
+[20:23:08:004] [INFO] - Server: Received download file message.
+[20:23:08:005] [INFO] - Server: Download successfully.
+[20:23:08:008] [INFO] - Server: Received download file message.
+[20:23:08:009] [INFO] - Server: Download successfully.
+[20:23:13:053] [INFO] - Server: Received message for viewing folder contents.
+[20:23:13:060] [INFO] - Server: Received download file message.
+[20:23:13:061] [INFO] - Server: Download successfully.
+[20:23:13:064] [INFO] - Server: Received download file message.
+[20:23:13:064] [INFO] - Server: Download successfully.
+[20:23:13:652] [INFO] - Server: Received message for viewing folder contents.
+[20:23:13:662] [INFO] - Server: Received download file message.
+[20:23:13:663] [INFO] - Server: Download successfully.
+[20:23:13:666] [INFO] - Server: Received download file message.
+[20:23:13:667] [INFO] - Server: Download successfully.
+[20:23:15:556] [INFO] - Server: Received message for viewing folder contents.
+[20:23:15:565] [INFO] - Server: Received download file message.
+[20:23:15:565] [INFO] - Server: Download successfully.
+[20:23:15:572] [INFO] - Server: Received download file message.
+[20:23:15:572] [INFO] - Server: Download successfully.
+[20:23:41:047] [INFO] - Server: Received share file request.
+[20:24:06:608] [INFO] - Server: Received signup message.
+[20:24:07:337] [INFO] - Server: Received login message.
+[20:24:07:388] [INFO] - Server: Received message for viewing folder contents.
+[20:24:07:395] [INFO] - Server: Received download file message.
+[20:24:07:395] [INFO] - Server: Download successfully.
+[20:24:20:843] [INFO] - Server: Received share file request.
+[20:24:20:845] [INFO] - Server: Share file /visitor/createFile.txt to visitor1 successfully
+[20:24:24:109] [INFO] - Server: Received message for viewing folder contents.
+[20:24:24:115] [INFO] - Server: Received download file message.
+[20:24:24:115] [INFO] - Server: Download successfully.
+[20:24:27:833] [INFO] - Server: Received message for viewing folder contents.
+[20:24:27:843] [INFO] - Server: Received download file message.
+[20:24:27:844] [INFO] - Server: Download successfully.
+[20:24:28:967] [INFO] - Server: Received download file message.
+[20:24:28:969] [INFO] - Server: Download successfully.
+[20:24:33:740] [INFO] - Server: Received message for viewing folder contents.
+[20:24:33:746] [INFO] - Server: Received download file message.
+[20:24:33:747] [INFO] - Server: Download successfully.
+[20:24:33:778] [INFO] - Server: Received upload file message.
+[20:24:33:779] [INFO] - Server: Upload file successfully.
+[20:24:35:762] [INFO] - Server: Received message for viewing folder contents.
+[20:24:35:777] [INFO] - Server: Received download file message.
+[20:24:35:777] [INFO] - Server: Download successfully.
+[20:24:39:828] [INFO] - Server: Received message for viewing folder contents.
+[20:24:39:842] [INFO] - Server: Received download file message.
+[20:24:39:842] [INFO] - Server: Download successfully.
+[20:24:46:454] [INFO] - Server: Received message for deleting file/folder.
+[20:24:46:456] [INFO] - Server: Delete successfully.
+[20:24:46:467] [INFO] - Server: Received message for viewing folder contents.
+[20:24:48:327] [INFO] - Server: Received message for viewing folder contents.
+[20:24:48:335] [INFO] - Server: Received download file message.
+[20:24:48:337] [INFO] - Server: Download successfully.
+[20:25:00:014] [INFO] - Server: Received message for creating new file/folder.
+[20:25:00:019] [INFO] - Server: Create/Users/biu/Desktop/scu/275ood/group_project/onlineFileSystem_group5/OnlineFile_final/src/server/allfiles/visitor/newfile.txt successfully.
+[20:25:00:027] [INFO] - Server: Received message for viewing folder contents.
+[20:25:00:034] [INFO] - Server: Received download file message.
+[20:25:00:036] [INFO] - Server: Download successfully.
+[20:25:00:048] [INFO] - Server: Received download file message.
+[20:25:00:048] [INFO] - Server: Download successfully.
+[20:25:00:051] [INFO] - Server: Received download file message.
+[20:25:00:051] [INFO] - Server: Download successfully.
+[20:25:01:898] [INFO] - Server: Received download file message.
+[20:25:01:900] [INFO] - Server: Download successfully.
+[20:25:26:217] [INFO] - Server: Received concurrent editing request.
+[20:25:28:246] [INFO] - Server: Received concurrent editing request.
+[20:25:30:138] [INFO] - Server: Received concurrent editing request.
+[20:25:51:409] [INFO] - Server: Received concurrent editing request.
+[20:25:52:113] [INFO] - Server: Received concurrent editing request.
+[20:25:58:405] [INFO] - Server: Received concurrent editing request.
+[20:26:08:805] [INFO] - Server: Received message for viewing folder contents.
+[20:26:08:917] [INFO] - Server: Received download file message.
+[20:26:08:919] [INFO] - Server: Download successfully.
+[20:26:09:238] [INFO] - Server: Received concurrent editing request.
+[20:26:10:306] [INFO] - Server: Received message for viewing folder contents.
+[20:26:10:310] [INFO] - Server: Received download file message.
+[20:26:10:311] [INFO] - Server: Download successfully.
+[20:26:10:312] [INFO] - Server: Received download file message.
+[20:26:10:312] [INFO] - Server: Download successfully.
+[20:26:10:313] [INFO] - Server: Received download file message.
+[20:26:10:314] [INFO] - Server: Download successfully.
+[20:26:10:339] [INFO] - Server: Received concurrent editing request.
+[20:26:12:899] [INFO] - Server: Received message for viewing folder contents.
+[20:26:12:906] [INFO] - Server: Received download file message.
+[20:26:12:906] [INFO] - Server: Download successfully.
+[20:26:12:910] [INFO] - Server: Received download file message.
+[20:26:12:910] [INFO] - Server: Download successfully.
+[20:26:12:914] [INFO] - Server: Received download file message.
+[20:26:12:915] [INFO] - Server: Download successfully.
+[20:26:14:057] [INFO] - Server: Received download file message.
+[20:26:14:059] [INFO] - Server: Download successfully.

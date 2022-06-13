@@ -1,0 +1,312 @@
+[23:27:19:087] [INFO] - 
+
+[23:27:19:097] [INFO] - Client: Connecting, socket: 127.0.0.1.2022
+[23:27:19:098] [INFO] - 
+
+[23:27:19:098] [INFO] - Client: Listening thread started.
+[23:32:09:835] [INFO] - Client: Attempt to login
+[23:32:09:856] [INFO] - Client: sending login request.
+[23:32:09:879] [INFO] - Client: Got server msg in listening thread.
+[23:32:09:880] [INFO] - Client: login: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:09:880] [INFO] - Client: User login succeed.
+[23:32:09:897] [INFO] - Client: Attempt to request view user files
+[23:32:09:897] [INFO] - Client: Sending request to view user files.
+[23:32:09:898] [INFO] - Client: sending viewFolderContents request.
+[23:32:09:919] [INFO] - Client: Got server msg in listening thread.
+[23:32:09:919] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:09:920] [INFO] - Client: View Folder 111111 Contents
+[23:32:09:921] [INFO] - Client: Attempt to download specified txtx file
+[23:32:09:921] [INFO] - Client: Sending request to download txt file.
+[23:32:09:921] [INFO] - Client: sending download request.
+[23:32:09:951] [INFO] - Client: Got server msg in listening thread.
+[23:32:09:951] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:09:952] [INFO] - Client: User download succeed.
+[23:32:09:952] [INFO] - Client: Attempt to download specified txtx file
+[23:32:09:952] [INFO] - Client: Sending request to download txt file.
+[23:32:09:952] [INFO] - Client: sending download request.
+[23:32:09:955] [INFO] - Client: Got server msg in listening thread.
+[23:32:09:955] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:09:956] [INFO] - Client: User download succeed.
+[23:32:09:956] [INFO] - Client: viewFolderContents : Succeed.
+[23:32:17:056] [INFO] - Client: Attempt to request view user files
+[23:32:17:057] [INFO] - Client: Sending request to view user files.
+[23:32:17:057] [INFO] - Client: sending viewFolderContents request.
+[23:32:17:061] [INFO] - Client: Got server msg in listening thread.
+[23:32:17:062] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:17:062] [INFO] - Client: View Folder 123 Contents
+[23:32:17:062] [INFO] - Client: viewFolderContents : Succeed.
+[23:32:19:249] [INFO] - Client: Attempt to request view user files
+[23:32:19:249] [INFO] - Client: Sending request to view user files.
+[23:32:19:250] [INFO] - Client: sending viewFolderContents request.
+[23:32:19:254] [INFO] - Client: Got server msg in listening thread.
+[23:32:19:254] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:19:254] [INFO] - Client: View Folder 111111 Contents
+[23:32:19:255] [INFO] - Client: Attempt to download specified txtx file
+[23:32:19:255] [INFO] - Client: Sending request to download txt file.
+[23:32:19:255] [INFO] - Client: sending download request.
+[23:32:19:257] [INFO] - Client: Got server msg in listening thread.
+[23:32:19:258] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:19:258] [INFO] - Client: User download succeed.
+[23:32:19:258] [INFO] - Client: Attempt to download specified txtx file
+[23:32:19:258] [INFO] - Client: Sending request to download txt file.
+[23:32:19:259] [INFO] - Client: sending download request.
+[23:32:19:261] [INFO] - Client: Got server msg in listening thread.
+[23:32:19:261] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:19:261] [INFO] - Client: User download succeed.
+[23:32:19:262] [INFO] - Client: viewFolderContents : Succeed.
+[23:32:24:808] [INFO] - Client: Attempt to request view user files
+[23:32:24:808] [INFO] - Client: Sending request to view user files.
+[23:32:24:809] [INFO] - Client: sending viewFolderContents request.
+[23:32:24:813] [INFO] - Client: Got server msg in listening thread.
+[23:32:24:813] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:24:813] [INFO] - Client: View Folder 111111 Contents
+[23:32:24:814] [INFO] - Client: Attempt to download specified txtx file
+[23:32:24:814] [INFO] - Client: Sending request to download txt file.
+[23:32:24:815] [INFO] - Client: sending download request.
+[23:32:24:817] [INFO] - Client: Got server msg in listening thread.
+[23:32:24:817] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:24:818] [INFO] - Client: User download succeed.
+[23:32:24:818] [INFO] - Client: Attempt to download specified txtx file
+[23:32:24:818] [INFO] - Client: Sending request to download txt file.
+[23:32:24:818] [INFO] - Client: sending download request.
+[23:32:24:820] [INFO] - Client: Got server msg in listening thread.
+[23:32:24:820] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:24:821] [INFO] - Client: User download succeed.
+[23:32:24:821] [INFO] - Client: viewFolderContents : Succeed.
+[23:32:30:151] [INFO] - Client: Attempt to download specified txtx file
+[23:32:30:151] [INFO] - Client: Sending request to download txt file.
+[23:32:30:152] [INFO] - Client: sending download request.
+[23:32:30:154] [INFO] - Client: Got server msg in listening thread.
+[23:32:30:155] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:30:155] [INFO] - Client: User download succeed.
+[23:32:37:254] [INFO] - Client: Attempt to upload txt file
+[23:32:37:254] [INFO] - Client: Sending request to upload txt file.
+[23:32:37:271] [INFO] - Client: sending uploadFile request.
+[23:32:37:273] [INFO] - Client: Got server msg in listening thread.
+[23:32:37:274] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:37:274] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:37:274] [INFO] - Client: User uploadFile succeed.
+[23:32:39:740] [INFO] - Client: Attempt to upload txt file
+[23:32:39:741] [INFO] - Client: Sending request to upload txt file.
+[23:32:39:741] [INFO] - Client: sending uploadFile request.
+[23:32:39:744] [INFO] - Client: Got server msg in listening thread.
+[23:32:39:744] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:39:744] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:39:744] [INFO] - Client: User uploadFile succeed.
+[23:32:40:078] [INFO] - Client: Attempt to upload txt file
+[23:32:40:079] [INFO] - Client: Sending request to upload txt file.
+[23:32:40:080] [INFO] - Client: sending uploadFile request.
+[23:32:40:084] [INFO] - Client: Got server msg in listening thread.
+[23:32:40:086] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:40:086] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:40:086] [INFO] - Client: User uploadFile succeed.
+[23:32:40:889] [INFO] - Client: Attempt to upload txt file
+[23:32:40:889] [INFO] - Client: Sending request to upload txt file.
+[23:32:40:890] [INFO] - Client: sending uploadFile request.
+[23:32:40:892] [INFO] - Client: Got server msg in listening thread.
+[23:32:40:892] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:40:893] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:40:893] [INFO] - Client: User uploadFile succeed.
+[23:32:42:589] [INFO] - Client: Attempt to upload txt file
+[23:32:42:590] [INFO] - Client: Sending request to upload txt file.
+[23:32:42:590] [INFO] - Client: sending uploadFile request.
+[23:32:42:592] [INFO] - Client: Got server msg in listening thread.
+[23:32:42:594] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:42:594] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:42:594] [INFO] - Client: User uploadFile succeed.
+[23:32:42:914] [INFO] - Client: Attempt to upload txt file
+[23:32:42:914] [INFO] - Client: Sending request to upload txt file.
+[23:32:42:914] [INFO] - Client: sending uploadFile request.
+[23:32:42:917] [INFO] - Client: Got server msg in listening thread.
+[23:32:42:917] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:42:917] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:42:917] [INFO] - Client: User uploadFile succeed.
+[23:32:43:956] [INFO] - Client: Attempt to upload txt file
+[23:32:43:956] [INFO] - Client: Sending request to upload txt file.
+[23:32:43:957] [INFO] - Client: sending uploadFile request.
+[23:32:43:959] [INFO] - Client: Got server msg in listening thread.
+[23:32:43:959] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:43:960] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:43:960] [INFO] - Client: User uploadFile succeed.
+[23:32:46:957] [INFO] - Client: Attempt to upload txt file
+[23:32:46:958] [INFO] - Client: Sending request to upload txt file.
+[23:32:46:958] [INFO] - Client: sending uploadFile request.
+[23:32:46:962] [INFO] - Client: Got server msg in listening thread.
+[23:32:46:962] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:46:962] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:46:963] [INFO] - Client: User uploadFile succeed.
+[23:32:49:206] [INFO] - Client: Attempt to upload txt file
+[23:32:49:207] [INFO] - Client: Sending request to upload txt file.
+[23:32:49:208] [INFO] - Client: sending uploadFile request.
+[23:32:49:211] [INFO] - Client: Got server msg in listening thread.
+[23:32:49:211] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:49:211] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:49:212] [INFO] - Client: User uploadFile succeed.
+[23:32:51:327] [INFO] - Client: Attempt to upload txt file
+[23:32:51:327] [INFO] - Client: Sending request to upload txt file.
+[23:32:51:328] [INFO] - Client: sending uploadFile request.
+[23:32:51:330] [INFO] - Client: Got server msg in listening thread.
+[23:32:51:331] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:51:331] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:51:331] [INFO] - Client: User uploadFile succeed.
+[23:32:53:137] [INFO] - Client: Attempt to upload txt file
+[23:32:53:138] [INFO] - Client: Sending request to upload txt file.
+[23:32:53:138] [INFO] - Client: sending uploadFile request.
+[23:32:53:141] [INFO] - Client: Got server msg in listening thread.
+[23:32:53:141] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:53:141] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:53:142] [INFO] - Client: User uploadFile succeed.
+[23:32:55:236] [INFO] - Client: Attempt to upload txt file
+[23:32:55:237] [INFO] - Client: Sending request to upload txt file.
+[23:32:55:237] [INFO] - Client: sending uploadFile request.
+[23:32:55:239] [INFO] - Client: Got server msg in listening thread.
+[23:32:55:239] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:55:240] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:55:240] [INFO] - Client: User uploadFile succeed.
+[23:32:55:377] [INFO] - Client: Attempt to upload txt file
+[23:32:55:377] [INFO] - Client: Sending request to upload txt file.
+[23:32:55:378] [INFO] - Client: sending uploadFile request.
+[23:32:55:380] [INFO] - Client: Got server msg in listening thread.
+[23:32:55:381] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:55:381] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:55:381] [INFO] - Client: User uploadFile succeed.
+[23:32:55:801] [INFO] - Client: Attempt to upload txt file
+[23:32:55:802] [INFO] - Client: Sending request to upload txt file.
+[23:32:55:803] [INFO] - Client: sending uploadFile request.
+[23:32:55:805] [INFO] - Client: Got server msg in listening thread.
+[23:32:55:806] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:55:806] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:55:806] [INFO] - Client: User uploadFile succeed.
+[23:32:56:326] [INFO] - Client: Attempt to upload txt file
+[23:32:56:326] [INFO] - Client: Sending request to upload txt file.
+[23:32:56:327] [INFO] - Client: sending uploadFile request.
+[23:32:56:329] [INFO] - Client: Got server msg in listening thread.
+[23:32:56:329] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:56:329] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:56:330] [INFO] - Client: User uploadFile succeed.
+[23:32:57:977] [INFO] - Client: Attempt to upload txt file
+[23:32:57:978] [INFO] - Client: Sending request to upload txt file.
+[23:32:57:978] [INFO] - Client: sending uploadFile request.
+[23:32:57:981] [INFO] - Client: Got server msg in listening thread.
+[23:32:57:982] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:32:57:982] [INFO] - Client: Upload /111111//test.txt successful
+[23:32:57:982] [INFO] - Client: User uploadFile succeed.
+[23:33:00:091] [INFO] - Client: Attempt to upload txt file
+[23:33:00:092] [INFO] - Client: Sending request to upload txt file.
+[23:33:00:092] [INFO] - Client: sending uploadFile request.
+[23:33:00:095] [INFO] - Client: Got server msg in listening thread.
+[23:33:00:095] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:33:00:095] [INFO] - Client: Upload /111111//test.txt successful
+[23:33:00:096] [INFO] - Client: User uploadFile succeed.
+[23:33:01:781] [INFO] - Client: Attempt to upload txt file
+[23:33:01:782] [INFO] - Client: Sending request to upload txt file.
+[23:33:01:782] [INFO] - Client: sending uploadFile request.
+[23:33:01:785] [INFO] - Client: Got server msg in listening thread.
+[23:33:01:785] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:33:01:786] [INFO] - Client: Upload /111111//test.txt successful
+[23:33:01:786] [INFO] - Client: User uploadFile succeed.
+[23:33:05:517] [INFO] - Client: Attempt to upload txt file
+[23:33:05:517] [INFO] - Client: Sending request to upload txt file.
+[23:33:05:518] [INFO] - Client: sending uploadFile request.
+[23:33:05:521] [INFO] - Client: Got server msg in listening thread.
+[23:33:05:521] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:33:05:521] [INFO] - Client: Upload /111111//test.txt successful
+[23:33:05:521] [INFO] - Client: User uploadFile succeed.
+[23:33:07:805] [INFO] - Client: Attempt to upload txt file
+[23:33:07:806] [INFO] - Client: Sending request to upload txt file.
+[23:33:07:806] [INFO] - Client: sending uploadFile request.
+[23:33:07:810] [INFO] - Client: Got server msg in listening thread.
+[23:33:07:810] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:33:07:810] [INFO] - Client: Upload /111111//test.txt successful
+[23:33:07:810] [INFO] - Client: User uploadFile succeed.
+[23:33:10:016] [INFO] - Client: Attempt to upload txt file
+[23:33:10:017] [INFO] - Client: Sending request to upload txt file.
+[23:33:10:018] [INFO] - Client: sending uploadFile request.
+[23:33:10:021] [INFO] - Client: Got server msg in listening thread.
+[23:33:10:021] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:33:10:021] [INFO] - Client: Upload /111111//test.txt successful
+[23:33:10:021] [INFO] - Client: User uploadFile succeed.
+[23:33:11:526] [INFO] - Client: Attempt to upload txt file
+[23:33:11:527] [INFO] - Client: Sending request to upload txt file.
+[23:33:11:527] [INFO] - Client: sending uploadFile request.
+[23:33:11:530] [INFO] - Client: Got server msg in listening thread.
+[23:33:11:530] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:33:11:530] [INFO] - Client: Upload /111111//test.txt successful
+[23:33:11:531] [INFO] - Client: User uploadFile succeed.
+[23:33:13:126] [INFO] - Client: Attempt to upload txt file
+[23:33:13:127] [INFO] - Client: Sending request to upload txt file.
+[23:33:13:127] [INFO] - Client: sending uploadFile request.
+[23:33:13:130] [INFO] - Client: Got server msg in listening thread.
+[23:33:13:130] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:33:13:130] [INFO] - Client: Upload /111111//test.txt successful
+[23:33:13:130] [INFO] - Client: User uploadFile succeed.
+[23:33:13:638] [INFO] - Client: Attempt to upload txt file
+[23:33:13:638] [INFO] - Client: Sending request to upload txt file.
+[23:33:13:638] [INFO] - Client: sending uploadFile request.
+[23:33:13:641] [INFO] - Client: Got server msg in listening thread.
+[23:33:13:641] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:33:13:641] [INFO] - Client: Upload /111111//test.txt successful
+[23:33:13:641] [INFO] - Client: User uploadFile succeed.
+[23:33:14:804] [INFO] - Client: Attempt to upload txt file
+[23:33:14:804] [INFO] - Client: Sending request to upload txt file.
+[23:33:14:805] [INFO] - Client: sending uploadFile request.
+[23:33:14:806] [INFO] - Client: Got server msg in listening thread.
+[23:33:14:806] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:33:14:807] [INFO] - Client: Upload /111111//test.txt successful
+[23:33:14:807] [INFO] - Client: User uploadFile succeed.
+[23:34:38:455] [INFO] - Client: Attempt to upload txt file
+[23:34:38:457] [INFO] - Client: Sending request to upload txt file.
+[23:34:38:458] [INFO] - Client: sending uploadFile request.
+[23:34:38:461] [INFO] - Client: Got server msg in listening thread.
+[23:34:38:461] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:34:38:462] [INFO] - Client: Upload /111111//test.txt successful
+[23:34:38:462] [INFO] - Client: User uploadFile succeed.
+[23:34:38:463] [INFO] - Client: Attempt to request view user files
+[23:34:38:464] [INFO] - Client: Sending request to view user files.
+[23:34:38:464] [INFO] - Client: sending viewFolderContents request.
+[23:34:38:466] [INFO] - Client: Got server msg in listening thread.
+[23:34:38:466] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:34:38:466] [INFO] - Client: View Folder 111111 Contents
+[23:34:38:467] [INFO] - Client: Attempt to download specified txtx file
+[23:34:38:467] [INFO] - Client: Sending request to download txt file.
+[23:34:38:467] [INFO] - Client: sending download request.
+[23:34:38:469] [INFO] - Client: Got server msg in listening thread.
+[23:34:38:469] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:34:38:470] [INFO] - Client: User download succeed.
+[23:34:38:470] [INFO] - Client: Attempt to download specified txtx file
+[23:34:38:470] [INFO] - Client: Sending request to download txt file.
+[23:34:38:471] [INFO] - Client: sending download request.
+[23:34:38:472] [INFO] - Client: Got server msg in listening thread.
+[23:34:38:472] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49980]
+[23:34:38:473] [INFO] - Client: User download succeed.
+[23:34:38:473] [INFO] - Client: viewFolderContents : Succeed.
+[23:36:17:591] [INFO] - 
+
+[23:36:17:593] [INFO] - Client: Connecting, socket: 127.0.0.1.2022
+[23:36:17:593] [INFO] - 
+
+[23:36:17:594] [INFO] - Client: Listening thread started.
+[23:36:23:346] [INFO] - Client: Attempt to login
+[23:36:23:357] [INFO] - Client: sending login request.
+[23:36:23:360] [INFO] - Client: Got server msg in listening thread.
+[23:36:23:360] [INFO] - Client: login: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49999]
+[23:36:23:360] [INFO] - Client: User login succeed.
+[23:36:23:376] [INFO] - Client: Attempt to request view user files
+[23:36:23:376] [INFO] - Client: Sending request to view user files.
+[23:36:23:377] [INFO] - Client: sending viewFolderContents request.
+[23:36:23:381] [INFO] - Client: Got server msg in listening thread.
+[23:36:23:381] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49999]
+[23:36:23:383] [INFO] - Client: View Folder 111111 Contents
+[23:36:23:383] [INFO] - Client: Attempt to download specified txtx file
+[23:36:23:384] [INFO] - Client: Sending request to download txt file.
+[23:36:23:384] [INFO] - Client: sending download request.
+[23:36:23:387] [INFO] - Client: Got server msg in listening thread.
+[23:36:23:387] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49999]
+[23:36:23:389] [INFO] - Client: User download succeed.
+[23:36:23:389] [INFO] - Client: Attempt to download specified txtx file
+[23:36:23:389] [INFO] - Client: Sending request to download txt file.
+[23:36:23:390] [INFO] - Client: sending download request.
+[23:36:23:392] [INFO] - Client: Got server msg in listening thread.
+[23:36:23:393] [INFO] - Client: download: Received response messages from: Socket[addr=/127.0.0.1,port=2022,localport=49999]
+[23:36:23:393] [INFO] - Client: User download succeed.
+[23:36:23:394] [INFO] - Client: viewFolderContents : Succeed.

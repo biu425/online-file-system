@@ -1,0 +1,51 @@
+[16:09:08:494] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[16:09:08:506] [INFO] - Client: msg: byby invites you to edit file /byby/newFileForTest.txt
+[16:09:10:430] [INFO] - Client: Accept Invitation.
+[16:09:10:533] [INFO] - Client: serverResponse: recieved file bytes from server.
+[16:09:10:533] [INFO] - Client: create temporary file src/client/Users/aaaaaa/concurrentEdit/newFileForTest.txt
+[16:09:10:548] [INFO] - Client: Close invite confirm Page
+[16:09:10:549] [INFO] - Client: Open file edit page
+[16:09:16:631] [INFO] - Client: push change
+[16:09:16:796] [INFO] - Client: editUpdate
+[16:09:16:797] [INFO] - Client: push change in newFileForTest.txt successfully.
+[16:09:40:895] [INFO] - Client: editUpdate
+[16:09:40:896] [INFO] - Client: push change in newFileForTest.txt successfully.
+[16:09:56:396] [INFO] - Client: aaaaaa quit the concurrent editing
+[16:09:56:619] [INFO] - Client: someone quit and update the file
+[16:10:25:980] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[16:10:25:981] [INFO] - Client: msg: byby invites you to edit file /byby/newFileForTest.txt
+[16:10:27:369] [INFO] - Client: Accept Invitation.
+[16:10:27:431] [INFO] - Client: serverResponse: recieved file bytes from server.
+[16:10:27:431] [INFO] - Client: create temporary file src/client/Users/aaaaaa/concurrentEdit/newFileForTest.txt
+[16:10:27:435] [INFO] - Client: Close invite confirm Page
+[16:10:27:436] [INFO] - Client: Open file edit page
+[16:10:32:654] [INFO] - Client: editUpdate
+[16:10:32:655] [INFO] - Client: push change in newFileForTest.txt successfully.
+[16:10:33:762] [INFO] - Client: editUpdate
+[16:10:33:763] [INFO] - Client: push change in newFileForTest.txt successfully.
+[16:10:40:036] [INFO] - Client: editUpdate
+[16:10:40:037] [INFO] - Client: push change in newFileForTest.txt successfully.
+[16:10:56:720] [INFO] - Client: push change
+[16:10:56:776] [INFO] - Client: editUpdate
+[16:10:56:776] [INFO] - Client: push change in newFileForTest.txt successfully.
+[16:11:00:562] [INFO] - Client: push change
+[16:11:00:663] [INFO] - Client: editUpdate
+[16:11:00:664] [INFO] - Client: push change in newFileForTest.txt successfully.
+[16:11:03:104] [INFO] - Client: aaaaaa quit the concurrent editing
+[16:19:07:667] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[16:19:07:667] [INFO] - Client: msg: visitor1 invites you to edit file /visitor1/testupload/test-edit.txt
+[16:19:08:809] [INFO] - Client: Accept Invitation.
+[16:19:09:088] [INFO] - Client: serverResponse: recieved file bytes from server.
+[16:19:09:088] [INFO] - Client: create temporary file src/client/Users/visitor/concurrentEdit/test-edit.txt
+[16:19:09:093] [INFO] - Client: Close invite confirm Page
+[16:19:09:094] [INFO] - Client: Open file edit page
+[16:19:19:594] [INFO] - Client: editUpdate
+[16:19:19:594] [INFO] - Client: push change in test-edit.txt successfully.
+[16:19:23:716] [INFO] - Client: editUpdate
+[16:19:23:718] [INFO] - Client: push change in test-edit.txt successfully.
+[16:19:25:915] [INFO] - Client: editUpdate
+[16:19:25:916] [INFO] - Client: push change in test-edit.txt successfully.
+[16:19:32:699] [INFO] - Client: push change
+[16:19:32:759] [INFO] - Client: editUpdate
+[16:19:32:761] [INFO] - Client: push change in test-edit.txt successfully.
+[16:20:05:436] [INFO] - Client: visitor quit the concurrent editing

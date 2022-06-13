@@ -1,0 +1,161 @@
+[15:54:39:572] [INFO] - 
+
+[15:54:39:580] [INFO] - Client: Connecting, socket: 127.0.0.1.2022
+[15:54:39:581] [INFO] - 
+
+[15:54:39:581] [INFO] - Client: Listening thread started.
+[15:54:53:546] [INFO] - 
+
+[15:54:53:547] [INFO] - Client: Connecting, socket: 127.0.0.1.2022
+[15:54:53:548] [INFO] - 
+
+[15:54:53:548] [INFO] - Client: Listening thread started.
+[15:57:15:247] [INFO] - 
+
+[15:57:15:249] [ERROR] - Client: Communicator constructor failed!
+[15:58:10:517] [INFO] - 
+
+[15:58:10:520] [ERROR] - Client: Communicator constructor failed!
+[16:07:37:416] [INFO] - 
+
+[16:07:37:419] [INFO] - Client: Connecting, socket: 172.31.177.155.2022
+[16:07:37:420] [INFO] - 
+
+[16:07:37:420] [INFO] - Client: Listening thread started.
+[16:08:39:224] [INFO] - Client: Attempt to sign up
+[16:08:39:240] [INFO] - Client: sending signup request.
+[16:08:39:371] [INFO] - Client: Got server msg in listening thread.
+[16:08:39:372] [INFO] - Client: signup: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:08:39:372] [INFO] - Client: User signup succeed.
+[16:08:40:027] [INFO] - Client: Attempt to login
+[16:08:40:028] [INFO] - Client: sending login request.
+[16:08:40:060] [INFO] - Client: Got server msg in listening thread.
+[16:08:40:061] [INFO] - Client: login: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:08:40:061] [INFO] - Client: User login succeed.
+[16:08:40:089] [INFO] - Client: Attempt to request view user files
+[16:08:40:089] [INFO] - Client: Sending request to view user files.
+[16:08:40:090] [INFO] - Client: sending viewFolderContents request.
+[16:08:40:120] [INFO] - Client: Got server msg in listening thread.
+[16:08:40:120] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:08:40:123] [INFO] - Client: View Folder aaaaaa Contents
+[16:08:40:123] [INFO] - Client: Attempt to download specified txtx file
+[16:08:40:123] [INFO] - Client: Sending request to download txt file.
+[16:08:40:124] [INFO] - Client: sending download request.
+[16:08:40:512] [INFO] - Client: Got server msg in listening thread.
+[16:08:40:512] [INFO] - Client: download: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:08:40:513] [INFO] - Client: User download succeed.
+[16:08:40:513] [INFO] - Client: viewFolderContents : Succeed.
+[16:08:43:807] [INFO] - Client: Attempt to download specified txtx file
+[16:08:43:808] [INFO] - Client: Sending request to download txt file.
+[16:08:43:808] [INFO] - Client: sending download request.
+[16:08:43:910] [INFO] - Client: Got server msg in listening thread.
+[16:08:43:911] [INFO] - Client: download: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:08:43:912] [INFO] - Client: User download succeed.
+[16:09:08:480] [INFO] - Client: Attempt to upload txt file
+[16:09:08:481] [INFO] - Client: Sending request to upload txt file.
+[16:09:08:493] [INFO] - Client: Got server msg in listening thread.
+[16:09:08:498] [INFO] - Client: sending uploadFile request.
+[16:09:08:543] [INFO] - Client: Got server msg in listening thread.
+[16:09:08:543] [INFO] - Client: uploadFile: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:09:08:543] [INFO] - Client: Upload aaaaaa//firstfile.txt successful
+[16:09:08:544] [INFO] - Client: User uploadFile succeed.
+[16:09:08:547] [INFO] - Client: Attempt to request view user files
+[16:09:08:547] [INFO] - Client: Sending request to view user files.
+[16:09:08:547] [INFO] - Client: sending viewFolderContents request.
+[16:09:08:884] [INFO] - Client: Got server msg in listening thread.
+[16:09:08:884] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:09:08:885] [INFO] - Client: View Folder aaaaaa Contents
+[16:09:08:886] [INFO] - Client: Attempt to download specified txtx file
+[16:09:08:886] [INFO] - Client: Sending request to download txt file.
+[16:09:08:887] [INFO] - Client: sending download request.
+[16:09:08:920] [INFO] - Client: Got server msg in listening thread.
+[16:09:08:920] [INFO] - Client: download: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:09:08:921] [INFO] - Client: User download succeed.
+[16:09:08:922] [INFO] - Client: viewFolderContents : Succeed.
+[16:09:10:532] [INFO] - Client: Got server msg in listening thread.
+[16:09:16:796] [INFO] - Client: Got server msg in listening thread.
+[16:09:40:894] [INFO] - Client: Got server msg in listening thread.
+[16:09:56:399] [INFO] - Client: Attempt to request view user files
+[16:09:56:399] [INFO] - Client: Sending request to view user files.
+[16:09:56:399] [INFO] - Client: sending viewFolderContents request.
+[16:09:56:618] [INFO] - Client: Got server msg in listening thread.
+[16:09:56:621] [INFO] - Client: Got server msg in listening thread.
+[16:09:56:622] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:09:56:622] [INFO] - Client: View Folder aaaaaa Contents
+[16:09:56:623] [INFO] - Client: Attempt to download specified txtx file
+[16:09:56:623] [INFO] - Client: Sending request to download txt file.
+[16:09:56:623] [INFO] - Client: sending download request.
+[16:09:56:653] [INFO] - Client: Got server msg in listening thread.
+[16:09:56:653] [INFO] - Client: download: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:09:56:654] [INFO] - Client: User download succeed.
+[16:09:56:654] [INFO] - Client: viewFolderContents : Succeed.
+[16:10:25:978] [INFO] - Client: Got server msg in listening thread.
+[16:10:27:430] [INFO] - Client: Got server msg in listening thread.
+[16:10:32:653] [INFO] - Client: Got server msg in listening thread.
+[16:10:33:762] [INFO] - Client: Got server msg in listening thread.
+[16:10:40:036] [INFO] - Client: Got server msg in listening thread.
+[16:10:56:775] [INFO] - Client: Got server msg in listening thread.
+[16:11:00:662] [INFO] - Client: Got server msg in listening thread.
+[16:11:03:106] [INFO] - Client: Attempt to request view user files
+[16:11:03:106] [INFO] - Client: Sending request to view user files.
+[16:11:03:107] [INFO] - Client: sending viewFolderContents request.
+[16:11:03:183] [INFO] - Client: Got server msg in listening thread.
+[16:11:03:183] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:11:03:184] [INFO] - Client: View Folder aaaaaa Contents
+[16:11:03:184] [INFO] - Client: Attempt to download specified txtx file
+[16:11:03:184] [INFO] - Client: Sending request to download txt file.
+[16:11:03:184] [INFO] - Client: sending download request.
+[16:11:03:310] [INFO] - Client: Got server msg in listening thread.
+[16:11:03:310] [INFO] - Client: download: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54047]
+[16:11:03:311] [INFO] - Client: User download succeed.
+[16:11:03:312] [INFO] - Client: viewFolderContents : Succeed.
+[16:18:36:259] [INFO] - 
+
+[16:18:36:262] [INFO] - Client: Connecting, socket: 172.31.177.155.2022
+[16:18:36:263] [INFO] - 
+
+[16:18:36:263] [INFO] - Client: Listening thread started.
+[16:18:44:015] [INFO] - Client: Attempt to login
+[16:18:44:028] [INFO] - Client: sending login request.
+[16:18:44:098] [INFO] - Client: Got server msg in listening thread.
+[16:18:44:098] [INFO] - Client: login: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54595]
+[16:18:44:098] [INFO] - Client: User login succeed.
+[16:18:44:124] [INFO] - Client: Attempt to request view user files
+[16:18:44:125] [INFO] - Client: Sending request to view user files.
+[16:18:44:128] [INFO] - Client: sending viewFolderContents request.
+[16:18:44:151] [INFO] - Client: Got server msg in listening thread.
+[16:18:44:151] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54595]
+[16:18:44:154] [INFO] - Client: View Folder visitor Contents
+[16:18:44:156] [INFO] - Client: viewFolderContents : Succeed.
+[16:18:46:549] [INFO] - Client: Attempt to request view user files
+[16:18:46:550] [INFO] - Client: Sending request to view user files.
+[16:18:46:550] [INFO] - Client: sending viewFolderContents request.
+[16:18:46:680] [INFO] - Client: Got server msg in listening thread.
+[16:18:46:680] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54595]
+[16:18:46:681] [INFO] - Client: View Folder shared_files Contents
+[16:18:46:681] [INFO] - Client: Attempt to download specified txtx file
+[16:18:46:682] [INFO] - Client: Sending request to download txt file.
+[16:18:46:682] [INFO] - Client: sending download request.
+[16:18:46:734] [INFO] - Client: Got server msg in listening thread.
+[16:18:46:735] [INFO] - Client: download: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54595]
+[16:18:46:736] [INFO] - Client: User download succeed.
+[16:18:46:736] [INFO] - Client: viewFolderContents : Succeed.
+[16:19:07:665] [INFO] - Client: Got server msg in listening thread.
+[16:19:09:087] [INFO] - Client: Got server msg in listening thread.
+[16:19:19:594] [INFO] - Client: Got server msg in listening thread.
+[16:19:23:714] [INFO] - Client: Got server msg in listening thread.
+[16:19:25:915] [INFO] - Client: Got server msg in listening thread.
+[16:19:32:758] [INFO] - Client: Got server msg in listening thread.
+[16:20:05:438] [INFO] - Client: Attempt to request view user files
+[16:20:05:439] [INFO] - Client: Sending request to view user files.
+[16:20:05:439] [INFO] - Client: sending viewFolderContents request.
+[16:20:05:680] [INFO] - Client: Got server msg in listening thread.
+[16:20:05:680] [INFO] - Client: viewFolderContents: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54595]
+[16:20:05:680] [INFO] - Client: View Folder shared_files Contents
+[16:20:05:681] [INFO] - Client: Attempt to download specified txtx file
+[16:20:05:681] [INFO] - Client: Sending request to download txt file.
+[16:20:05:681] [INFO] - Client: sending download request.
+[16:20:05:703] [INFO] - Client: Got server msg in listening thread.
+[16:20:05:704] [INFO] - Client: download: Received response messages from: Socket[addr=/172.31.177.155,port=2022,localport=54595]
+[16:20:05:704] [INFO] - Client: User download succeed.
+[16:20:05:705] [INFO] - Client: viewFolderContents : Succeed.

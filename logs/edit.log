@@ -1,0 +1,226 @@
+[17:57:31:864] [INFO] - Client: push change
+[17:57:31:868] [INFO] - Server: Received 111111 push change request.
+[17:57:31:868] [INFO] - Server: server is editing in server temp file
+[17:57:31:869] [INFO] - Server: mode: insert
+[17:57:31:869] [INFO] - Server: push change successfully
+[17:57:31:870] [INFO] - Client: editUpdate
+[17:57:31:870] [INFO] - Client: push change in aaa.txt successfully.
+[17:57:31:895] [INFO] - Client: editUpdate
+[17:57:31:896] [INFO] - Client: push change in aaa.txt successfully.
+[17:57:42:217] [INFO] - Client: push change
+[17:57:42:220] [INFO] - Server: Received user111 push change request.
+[17:57:42:220] [INFO] - Server: server is editing in server temp file
+[17:57:42:220] [INFO] - Server: mode: insert
+[17:57:42:221] [INFO] - Server: push change successfully
+[17:57:42:224] [INFO] - Client: editUpdate
+[17:57:42:225] [INFO] - Client: editUpdate
+[17:57:42:225] [INFO] - Client: push change in aaa.txt successfully.
+[17:57:42:226] [INFO] - Client: push change in aaa.txt successfully.
+[18:35:39:135] [INFO] - Client: Send Invitation To [visitor]
+[18:35:39:179] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[18:35:39:179] [INFO] - Client: msg: 111111 invites you to edit file /111111/firstfile.txt
+[18:35:40:364] [INFO] - Client: Accept Invitation.
+[18:35:40:399] [INFO] - Client: serverResponse: recieved file bytes from server.
+[18:35:40:399] [INFO] - Client: create temporary file src/client/Users/111111/concurrentEdit/firstfile.txt
+[18:35:40:403] [INFO] - Client: Close invite confirm Page
+[18:35:40:403] [INFO] - Client: Open file edit page
+[18:35:45:952] [INFO] - Client: push change
+[18:35:46:028] [INFO] - Client: editUpdate
+[18:35:46:030] [INFO] - Client: push change in firstfile.txt successfully.
+[18:35:52:445] [INFO] - Client: editUpdate
+[18:35:52:445] [INFO] - Client: push change in firstfile.txt successfully.
+[18:35:54:200] [INFO] - Client: editUpdate
+[18:35:54:201] [INFO] - Client: push change in firstfile.txt successfully.
+[18:35:55:871] [INFO] - Client: editUpdate
+[18:35:55:872] [INFO] - Client: push change in firstfile.txt successfully.
+[18:35:59:239] [INFO] - Client: editUpdate
+[18:35:59:240] [INFO] - Client: push change in firstfile.txt successfully.
+[18:36:05:667] [INFO] - Client: editUpdate
+[18:36:05:668] [INFO] - Client: push change in firstfile.txt successfully.
+[18:36:09:075] [INFO] - Client: editUpdate
+[18:36:09:077] [INFO] - Client: push change in firstfile.txt successfully.
+[18:36:11:300] [INFO] - Client: editUpdate
+[18:36:11:302] [INFO] - Client: push change in firstfile.txt successfully.
+[18:36:13:299] [INFO] - Client: editUpdate
+[18:36:13:301] [INFO] - Client: push change in firstfile.txt successfully.
+[18:36:14:303] [INFO] - Client: push change
+[18:36:14:340] [INFO] - Client: editUpdate
+[18:36:14:341] [INFO] - Client: push change in firstfile.txt successfully.
+[18:36:18:076] [INFO] - Client: push change
+[18:36:18:141] [INFO] - Client: editUpdate
+[18:36:18:142] [INFO] - Client: push change in firstfile.txt successfully.
+[18:36:19:826] [INFO] - Client: 111111 quit the concurrent editing
+[18:49:48:374] [INFO] - Client: Send Invitation To [visitor]
+[18:49:48:447] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[18:49:48:447] [INFO] - Client: msg: 111111 invites you to edit file /111111/firstfile.txt
+[18:49:49:475] [INFO] - Client: Accept Invitation.
+[18:49:49:509] [INFO] - Client: serverResponse: recieved file bytes from server.
+[18:49:49:509] [INFO] - Client: create temporary file src/client/Users/111111/concurrentEdit/firstfile.txt
+[18:49:49:513] [INFO] - Client: Close invite confirm Page
+[18:49:49:513] [INFO] - Client: Open file edit page
+[18:49:54:730] [INFO] - Client: 111111 quit the concurrent editing
+[18:49:54:767] [INFO] - Client: someone quit and update the file
+[18:50:39:097] [INFO] - Client: Send Invitation To [visitor]
+[18:50:39:146] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[18:50:39:147] [INFO] - Client: msg: 111111 invites you to edit file /111111/firstfile.txt
+[18:50:40:351] [INFO] - Client: Accept Invitation.
+[18:50:40:517] [INFO] - Client: serverResponse: recieved file bytes from server.
+[18:50:40:518] [INFO] - Client: create temporary file src/client/Users/111111/concurrentEdit/firstfile.txt
+[18:50:40:521] [INFO] - Client: Close invite confirm Page
+[18:50:40:522] [INFO] - Client: Open file edit page
+[18:50:44:468] [INFO] - Client: editUpdate
+[18:50:44:469] [INFO] - Client: push change in firstfile.txt successfully.
+[18:50:49:379] [INFO] - Client: editUpdate
+[18:50:49:380] [INFO] - Client: push change in firstfile.txt successfully.
+[18:50:54:242] [INFO] - Client: editUpdate
+[18:50:54:244] [INFO] - Client: push change in firstfile.txt successfully.
+[18:50:56:342] [INFO] - Client: editUpdate
+[18:50:56:342] [INFO] - Client: push change in firstfile.txt successfully.
+[18:50:57:975] [INFO] - Client: editUpdate
+[18:50:57:976] [INFO] - Client: push change in firstfile.txt successfully.
+[18:51:17:985] [INFO] - Client: editUpdate
+[18:51:17:986] [INFO] - Client: push change in firstfile.txt successfully.
+[18:51:21:931] [INFO] - Client: editUpdate
+[18:51:21:932] [INFO] - Client: push change in firstfile.txt successfully.
+[18:51:40:720] [INFO] - Client: editUpdate
+[18:51:40:721] [INFO] - Client: push change in firstfile.txt successfully.
+[18:51:46:710] [INFO] - Client: push change
+[18:51:46:751] [INFO] - Client: editUpdate
+[18:51:46:751] [INFO] - Client: push change in firstfile.txt successfully.
+[18:51:50:841] [INFO] - Client: 111111 quit the concurrent editing
+[18:51:50:886] [INFO] - Client: someone quit and update the file
+[18:58:15:110] [INFO] - Server: requesting: recieved message from client for concurrent editing
+[18:58:15:110] [INFO] - Server: the original file path: /111111/aaa.txt
+[18:58:15:111] [INFO] - Server: filename: aaa.txt
+[18:58:15:111] [INFO] - Server: file owner: 111111
+[18:58:15:111] [INFO] - Server: Concurrent editUserList: [111111, visitor]
+[18:58:15:123] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[18:58:15:124] [INFO] - Client: msg: 111111 invites you to edit file /111111/aaa.txt
+[18:58:16:552] [INFO] - Client: Accept Invitation.
+[18:58:16:557] [INFO] - Server: editAgree: visitor accept the invitation.
+[18:58:17:855] [INFO] - Server: editAgree: 111111 accept the invitation.
+[18:58:18:015] [INFO] - Client: Accept Invitation.
+[18:58:18:750] [INFO] - Client: Accept Invitation.
+[18:58:19:550] [INFO] - Client: Accept Invitation.
+[18:58:20:267] [INFO] - Client: Accept Invitation.
+[18:58:20:667] [INFO] - Client: Accept Invitation.
+[18:58:23:667] [INFO] - Client: Accept Invitation.
+[18:58:23:983] [INFO] - Client: Accept Invitation.
+[18:58:24:383] [INFO] - Client: Accept Invitation.
+[18:58:42:649] [INFO] - Client: Accept Invitation.
+[18:59:37:967] [INFO] - Server: requesting: recieved message from client for concurrent editing
+[18:59:37:970] [INFO] - Server: the original file path: /user101/new.txt
+[18:59:37:970] [INFO] - Server: filename: new.txt
+[18:59:37:970] [INFO] - Server: file owner: user101
+[18:59:37:971] [INFO] - Server: Concurrent editUserList: [111111, visitor, user101, visitor]
+[19:02:42:795] [INFO] - Server: requesting: recieved message from client for concurrent editing
+[19:02:42:796] [INFO] - Server: the original file path: /111111/firstfile.txt
+[19:02:42:797] [INFO] - Server: filename: firstfile.txt
+[19:02:42:798] [INFO] - Server: file owner: 111111
+[19:02:42:798] [INFO] - Server: Concurrent editUserList: [111111, visitor]
+[19:02:42:812] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[19:02:42:812] [INFO] - Client: msg: 111111 invites you to edit file /111111/firstfile.txt
+[19:02:45:249] [INFO] - Client: Accept Invitation.
+[19:02:45:251] [INFO] - Server: editAgree: visitor accept the invitation.
+[19:02:45:252] [INFO] - Server: Create the temporary file.
+[19:02:45:257] [INFO] - Client: serverResponse: recieved file bytes from server.
+[19:02:45:258] [INFO] - Client: create temporary file src/client/Users/visitor/concurrentEdit/firstfile.txt
+[19:02:45:264] [INFO] - Client: Close invite confirm Page
+[19:02:45:266] [INFO] - Client: Open file edit page
+[19:02:45:936] [INFO] - Server: editAgree: 111111 accept the invitation.
+[19:03:12:101] [INFO] - Client: push change
+[19:03:12:132] [INFO] - Server: Received visitor push change request.
+[19:03:12:132] [INFO] - Server: server is editing in server temp file
+[19:03:12:132] [INFO] - Server: mode: insert
+[19:03:12:134] [INFO] - Server: push change successfully
+[19:03:12:141] [INFO] - Client: editUpdate
+[19:03:12:142] [INFO] - Client: push change in firstfile.txt successfully.
+[19:03:18:462] [INFO] - Server: Received 111111 push change request.
+[19:03:18:462] [INFO] - Server: server is editing in server temp file
+[19:03:18:463] [INFO] - Server: mode: insert
+[19:03:18:465] [INFO] - Server: push change successfully
+[19:03:18:471] [INFO] - Client: editUpdate
+[19:03:18:472] [INFO] - Client: push change in firstfile.txt successfully.
+[19:03:20:253] [INFO] - Client: visitor quit the concurrent editing
+[19:03:20:255] [INFO] - Server: visitor is quitting
+[19:03:20:256] [INFO] - Server: New Concurrent editUserList: [111111]
+[19:03:20:259] [INFO] - Client: someone quit and update the file
+[19:03:23:302] [INFO] - Server: 111111 is quitting
+[19:03:23:304] [INFO] - Server: New Concurrent editUserList: []
+[19:03:23:304] [INFO] - Server: all clients quit the concurrent editing
+[19:07:53:638] [INFO] - Server: requesting: recieved message from client for concurrent editing
+[19:07:53:641] [INFO] - Server: the original file path: /visitor/test_txt.txt
+[19:07:53:641] [INFO] - Server: filename: test_txt.txt
+[19:07:53:641] [INFO] - Server: file owner: visitor
+[19:07:53:641] [INFO] - Server: Concurrent editUserList: [visitor, visitor1]
+[19:07:53:650] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[19:07:53:651] [INFO] - Client: msg: visitor invites you to edit file /visitor/test_txt.txt
+[19:07:55:789] [INFO] - Server: editAgree: visitor accept the invitation.
+[19:07:55:790] [INFO] - Server: Create the temporary file.
+[19:07:58:779] [INFO] - Client: Accept Invitation.
+[19:07:58:787] [INFO] - Server: editAgree: visitor1 accept the invitation.
+[19:07:58:791] [INFO] - Client: serverResponse: recieved file bytes from server.
+[19:07:58:791] [INFO] - Client: create temporary file src/client/Users/visitor1/concurrentEdit/test_txt.txt
+[19:07:58:805] [INFO] - Client: Close invite confirm Page
+[19:07:58:805] [INFO] - Client: Open file edit page
+[19:08:03:523] [INFO] - Server: Received visitor push change request.
+[19:08:03:523] [INFO] - Server: server is editing in server temp file
+[19:08:03:524] [INFO] - Server: mode: insert
+[19:08:03:524] [INFO] - Server: push change successfully
+[19:08:03:536] [INFO] - Client: editUpdate
+[19:08:03:537] [INFO] - Client: push change in test_txt.txt successfully.
+[19:08:07:152] [INFO] - Client: push change
+[19:08:07:158] [INFO] - Server: Received visitor1 push change request.
+[19:08:07:158] [INFO] - Server: server is editing in server temp file
+[19:08:07:158] [INFO] - Server: mode: insert
+[19:08:07:159] [INFO] - Server: push change successfully
+[19:08:07:164] [INFO] - Client: editUpdate
+[19:08:07:165] [INFO] - Client: push change in test_txt.txt successfully.
+[19:08:09:350] [INFO] - Client: visitor1 quit the concurrent editing
+[19:08:09:352] [INFO] - Server: visitor1 is quitting
+[19:08:09:352] [INFO] - Server: New Concurrent editUserList: [visitor]
+[19:08:09:354] [INFO] - Client: someone quit and update the file
+[19:08:11:738] [INFO] - Server: visitor is quitting
+[19:08:11:739] [INFO] - Server: New Concurrent editUserList: []
+[19:08:11:739] [INFO] - Server: all clients quit the concurrent editing
+[20:25:26:212] [INFO] - Client: Send Invitation To [user222]
+[20:25:26:218] [INFO] - Server: requesting: recieved message from client for concurrent editing
+[20:25:26:218] [INFO] - Server: the original file path: //visitor/newfile.txt
+[20:25:26:218] [INFO] - Server: filename: newfile.txt
+[20:25:26:218] [INFO] - Server: file owner: visitor
+[20:25:26:219] [INFO] - Server: Concurrent editUserList: [visitor, user222]
+[20:25:26:224] [INFO] - Client: serverRequest: recieved message from server for concurrent editing.
+[20:25:26:227] [INFO] - Client: msg: visitor invites you to edit file //visitor/newfile.txt
+[20:25:28:243] [INFO] - Client: Accept Invitation.
+[20:25:28:247] [INFO] - Server: editAgree: visitor accept the invitation.
+[20:25:28:248] [INFO] - Server: Create the temporary file.
+[20:25:28:255] [INFO] - Client: serverResponse: recieved file bytes from server.
+[20:25:28:255] [INFO] - Client: create temporary file src/client/Users/visitor/concurrentEdit/newfile.txt
+[20:25:28:260] [INFO] - Client: Close invite confirm Page
+[20:25:28:260] [INFO] - Client: Open file edit page
+[20:25:30:139] [INFO] - Server: editAgree: user222 accept the invitation.
+[20:25:51:415] [INFO] - Server: Received user222 push change request.
+[20:25:51:416] [INFO] - Server: server is editing in server temp file
+[20:25:51:416] [INFO] - Server: mode: insert
+[20:25:51:416] [INFO] - Server: push change successfully
+[20:25:51:429] [INFO] - Client: editUpdate
+[20:25:51:430] [INFO] - Client: push change in newfile.txt successfully.
+[20:25:52:115] [INFO] - Server: Received user222 push change request.
+[20:25:52:117] [INFO] - Server: server is editing in server temp file
+[20:25:52:117] [INFO] - Server: mode: delete
+[20:25:52:118] [INFO] - Server: push change successfully
+[20:25:52:120] [INFO] - Client: editUpdate
+[20:25:52:120] [INFO] - Client: push change in newfile.txt successfully.
+[20:25:58:392] [INFO] - Client: push change
+[20:25:58:406] [INFO] - Server: Received visitor push change request.
+[20:25:58:406] [INFO] - Server: server is editing in server temp file
+[20:25:58:406] [INFO] - Server: mode: insert
+[20:25:58:406] [INFO] - Server: push change successfully
+[20:25:58:412] [INFO] - Client: editUpdate
+[20:25:58:417] [INFO] - Client: push change in newfile.txt successfully.
+[20:26:09:239] [INFO] - Server: user222 is quitting
+[20:26:09:240] [INFO] - Server: New Concurrent editUserList: [visitor]
+[20:26:10:337] [INFO] - Client: visitor quit the concurrent editing
+[20:26:10:340] [INFO] - Server: visitor is quitting
+[20:26:10:340] [INFO] - Server: New Concurrent editUserList: []
+[20:26:10:340] [INFO] - Server: all clients quit the concurrent editing

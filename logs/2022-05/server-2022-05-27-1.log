@@ -1,0 +1,219 @@
+[21:50:32:562] [INFO] - Server: Received signup message.
+[21:50:33:129] [INFO] - Server: Received login message.
+[21:50:33:152] [INFO] - Server: Received message for viewing folder contents.
+[21:50:33:173] [INFO] - Server: Received download file message.
+[21:50:33:174] [INFO] - Server: Download successfully.
+[21:50:36:524] [INFO] - Server: Received download file message.
+[21:50:36:524] [INFO] - Server: Download successfully.
+[21:50:39:838] [INFO] - Server: Received upload file message.
+[21:50:39:838] [INFO] - Server: Upload file successfully.
+[21:50:39:842] [INFO] - Server: Received message for viewing folder contents.
+[21:50:39:846] [INFO] - Server: Received download file message.
+[21:50:39:846] [INFO] - Server: Download successfully.
+[21:50:46:369] [INFO] - Server: Received download file message.
+[21:50:46:370] [INFO] - Server: Download successfully.
+[21:50:47:415] [INFO] - Server: Received upload file message.
+[21:50:47:416] [INFO] - Server: Upload file successfully.
+[21:50:47:421] [INFO] - Server: Received message for viewing folder contents.
+[21:50:47:424] [INFO] - Server: Received download file message.
+[21:50:47:425] [INFO] - Server: Download successfully.
+[21:50:53:197] [INFO] - Server: Received download file message.
+[21:50:53:198] [INFO] - Server: Download successfully.
+[21:50:54:716] [INFO] - Server: Received upload file message.
+[21:50:54:717] [INFO] - Server: Upload file successfully.
+[21:50:54:720] [INFO] - Server: Received message for viewing folder contents.
+[21:50:54:724] [INFO] - Server: Received download file message.
+[21:50:54:724] [INFO] - Server: Download successfully.
+[21:51:05:134] [INFO] - Server: Received message for creating new file/folder.
+[21:51:05:135] [INFO] - Server: Create/Users/Haoyuan/Desktop/OnlineFile/src/server/allfiles/111111/test.txt successfully.
+[21:51:05:140] [INFO] - Server: Received message for viewing folder contents.
+[21:51:05:144] [INFO] - Server: Received download file message.
+[21:51:05:144] [INFO] - Server: Download successfully.
+[21:51:05:149] [INFO] - Server: Received download file message.
+[21:51:05:149] [INFO] - Server: Download successfully.
+[21:51:06:561] [INFO] - Server: Received download file message.
+[21:51:06:562] [INFO] - Server: Download successfully.
+[21:51:10:172] [INFO] - Server: Received upload file message.
+[21:51:10:173] [INFO] - Server: Upload file successfully.
+[21:51:12:705] [INFO] - Server: Received upload file message.
+[21:51:12:706] [INFO] - Server: Upload file successfully.
+[21:51:12:709] [INFO] - Server: Received message for viewing folder contents.
+[21:51:12:712] [INFO] - Server: Received download file message.
+[21:51:12:713] [INFO] - Server: Download successfully.
+[21:51:12:715] [INFO] - Server: Received download file message.
+[21:51:12:715] [INFO] - Server: Download successfully.
+[21:51:16:664] [INFO] - Server: Received download file message.
+[21:51:16:664] [INFO] - Server: Download successfully.
+[21:51:17:676] [INFO] - Server: Received upload file message.
+[21:51:17:677] [INFO] - Server: Upload file successfully.
+[21:51:17:680] [INFO] - Server: Received message for viewing folder contents.
+[21:51:17:683] [INFO] - Server: Received download file message.
+[21:51:17:683] [INFO] - Server: Download successfully.
+[21:51:17:686] [INFO] - Server: Received download file message.
+[21:51:17:686] [INFO] - Server: Download successfully.
+[21:51:18:577] [INFO] - Server: Received download file message.
+[21:51:18:578] [INFO] - Server: Download successfully.
+[21:51:19:461] [INFO] - Server: Received upload file message.
+[21:51:19:461] [INFO] - Server: Upload file successfully.
+[21:51:19:464] [INFO] - Server: Received message for viewing folder contents.
+[21:51:19:467] [INFO] - Server: Received download file message.
+[21:51:19:467] [INFO] - Server: Download successfully.
+[21:51:19:469] [INFO] - Server: Received download file message.
+[21:51:19:469] [INFO] - Server: Download successfully.
+[21:51:27:993] [INFO] - Server: Received message for creating new file/folder.
+[21:51:27:994] [INFO] - Server: Create/Users/Haoyuan/Desktop/OnlineFile/src/server/allfiles/111111/123 successfully.
+[21:51:27:997] [INFO] - Server: Received message for viewing folder contents.
+[21:51:28:000] [INFO] - Server: Received download file message.
+[21:51:28:001] [INFO] - Server: Download successfully.
+[21:51:28:003] [INFO] - Server: Received download file message.
+[21:51:28:004] [INFO] - Server: Download successfully.
+[21:51:28:871] [INFO] - Server: Received message for viewing folder contents.
+[21:51:31:006] [INFO] - Server: Received message for viewing folder contents.
+[21:51:32:771] [INFO] - Server: Received message for viewing folder contents.
+[21:51:38:724] [INFO] - Server: Received message for viewing folder contents.
+[21:51:40:005] [INFO] - Server: Received message for viewing folder contents.
+[21:51:40:826] [INFO] - Server: Received message for viewing folder contents.
+[21:51:41:636] [INFO] - Server: Received message for viewing folder contents.
+[21:51:42:536] [INFO] - Server: Received message for viewing folder contents.
+[21:54:05:966] [INFO] - Server: Received login message.
+[21:54:05:988] [INFO] - Server: Received message for viewing folder contents.
+[21:54:06:004] [INFO] - Server: Received download file message.
+[21:54:06:005] [INFO] - Server: Download successfully.
+[21:54:06:021] [INFO] - Server: Received download file message.
+[21:54:06:022] [INFO] - Server: Download successfully.
+[21:54:07:829] [INFO] - Server: Received message for viewing folder contents.
+[21:54:12:148] [INFO] - Server: Received message for viewing folder contents.
+[21:54:14:060] [INFO] - Server: Received message for viewing folder contents.
+[21:54:16:188] [INFO] - Server: Received message for viewing folder contents.
+[21:55:32:328] [INFO] - Server: Received login message.
+[21:55:32:350] [INFO] - Server: Received message for viewing folder contents.
+[21:55:32:369] [INFO] - Server: Received download file message.
+[21:55:32:370] [INFO] - Server: Download successfully.
+[21:55:32:387] [INFO] - Server: Received download file message.
+[21:55:32:388] [INFO] - Server: Download successfully.
+[21:58:01:675] [INFO] - Server: Received login message.
+[21:58:01:705] [INFO] - Server: Received message for viewing folder contents.
+[21:58:01:725] [INFO] - Server: Received download file message.
+[21:58:01:725] [INFO] - Server: Download successfully.
+[21:58:01:744] [INFO] - Server: Received download file message.
+[21:58:01:745] [INFO] - Server: Download successfully.
+[21:58:10:014] [INFO] - Server: Received message for viewing folder contents.
+[21:58:54:822] [INFO] - Server: Received message for viewing folder contents.
+[21:58:56:655] [INFO] - Server: Received message for viewing folder contents.
+[21:59:35:867] [INFO] - Server: Received login message.
+[21:59:35:886] [INFO] - Server: Received message for viewing folder contents.
+[21:59:35:904] [INFO] - Server: Received download file message.
+[21:59:35:905] [INFO] - Server: Download successfully.
+[21:59:35:921] [INFO] - Server: Received download file message.
+[21:59:35:922] [INFO] - Server: Download successfully.
+[22:02:57:226] [INFO] - Server: Received login message.
+[22:02:57:246] [INFO] - Server: Received message for viewing folder contents.
+[22:02:57:265] [INFO] - Server: Received download file message.
+[22:02:57:266] [INFO] - Server: Download successfully.
+[22:02:57:282] [INFO] - Server: Received download file message.
+[22:02:57:283] [INFO] - Server: Download successfully.
+[22:05:00:081] [INFO] - Server: Received login message.
+[22:05:00:101] [INFO] - Server: Received message for viewing folder contents.
+[22:05:00:121] [INFO] - Server: Received download file message.
+[22:05:00:122] [INFO] - Server: Download successfully.
+[22:05:00:139] [INFO] - Server: Received download file message.
+[22:05:00:140] [INFO] - Server: Download successfully.
+[22:08:06:846] [INFO] - Server: Received login message.
+[22:08:06:880] [INFO] - Server: Received message for viewing folder contents.
+[22:08:06:901] [INFO] - Server: Received download file message.
+[22:08:06:902] [INFO] - Server: Download successfully.
+[22:08:06:933] [INFO] - Server: Received download file message.
+[22:08:06:934] [INFO] - Server: Download successfully.
+[22:11:05:965] [INFO] - Server: Received login message.
+[22:11:05:991] [INFO] - Server: Received message for viewing folder contents.
+[22:11:06:009] [INFO] - Server: Received download file message.
+[22:11:06:009] [INFO] - Server: Download successfully.
+[22:11:06:026] [INFO] - Server: Received download file message.
+[22:11:06:027] [INFO] - Server: Download successfully.
+[22:11:43:292] [INFO] - Server: Received login message.
+[22:11:43:319] [INFO] - Server: Received message for viewing folder contents.
+[22:11:43:337] [INFO] - Server: Received download file message.
+[22:11:43:338] [INFO] - Server: Download successfully.
+[22:11:43:355] [INFO] - Server: Received download file message.
+[22:11:43:356] [INFO] - Server: Download successfully.
+[22:11:46:129] [INFO] - Server: Received message for viewing folder contents.
+[22:11:47:963] [INFO] - Server: Received message for viewing folder contents.
+[22:11:47:968] [INFO] - Server: Received download file message.
+[22:11:47:969] [INFO] - Server: Download successfully.
+[22:11:47:973] [INFO] - Server: Received download file message.
+[22:11:47:973] [INFO] - Server: Download successfully.
+[22:12:08:989] [INFO] - Server: Received message for viewing folder contents.
+[22:12:10:958] [INFO] - Server: Received message for viewing folder contents.
+[22:12:10:963] [INFO] - Server: Received download file message.
+[22:12:10:964] [INFO] - Server: Download successfully.
+[22:12:10:967] [INFO] - Server: Received download file message.
+[22:12:10:968] [INFO] - Server: Download successfully.
+[22:12:14:042] [INFO] - Server: Received message for viewing folder contents.
+[22:12:16:369] [INFO] - Server: Received message for viewing folder contents.
+[22:12:16:373] [INFO] - Server: Received download file message.
+[22:12:16:373] [INFO] - Server: Download successfully.
+[22:12:16:376] [INFO] - Server: Received download file message.
+[22:12:16:376] [INFO] - Server: Download successfully.
+[22:12:25:978] [INFO] - Server: Received message for viewing folder contents.
+[22:12:25:982] [INFO] - Server: Received download file message.
+[22:12:25:983] [INFO] - Server: Download successfully.
+[22:12:25:985] [INFO] - Server: Received download file message.
+[22:12:25:986] [INFO] - Server: Download successfully.
+[22:12:26:776] [INFO] - Server: Received message for viewing folder contents.
+[22:12:26:781] [INFO] - Server: Received download file message.
+[22:12:26:781] [INFO] - Server: Download successfully.
+[22:12:26:783] [INFO] - Server: Received download file message.
+[22:12:26:784] [INFO] - Server: Download successfully.
+[22:12:38:746] [INFO] - Server: Received download file message.
+[22:12:38:747] [INFO] - Server: Download successfully.
+[22:12:41:278] [INFO] - Server: Received upload file message.
+[22:12:41:279] [INFO] - Server: Upload file successfully.
+[22:12:41:283] [INFO] - Server: Received message for viewing folder contents.
+[22:12:41:286] [INFO] - Server: Received download file message.
+[22:12:41:287] [INFO] - Server: Download successfully.
+[22:12:41:289] [INFO] - Server: Received download file message.
+[22:12:41:290] [INFO] - Server: Download successfully.
+[22:12:44:942] [INFO] - Server: Received download file message.
+[22:12:44:942] [INFO] - Server: Download successfully.
+[22:12:46:224] [INFO] - Server: Received upload file message.
+[22:12:46:225] [INFO] - Server: Upload file successfully.
+[22:12:46:228] [INFO] - Server: Received message for viewing folder contents.
+[22:12:46:231] [INFO] - Server: Received download file message.
+[22:12:46:231] [INFO] - Server: Download successfully.
+[22:12:46:233] [INFO] - Server: Received download file message.
+[22:12:46:234] [INFO] - Server: Download successfully.
+[22:12:49:251] [INFO] - Server: Received message for viewing folder contents.
+[22:12:50:431] [INFO] - Server: Received message for viewing folder contents.
+[22:12:50:434] [INFO] - Server: Received download file message.
+[22:12:50:434] [INFO] - Server: Download successfully.
+[22:12:50:436] [INFO] - Server: Received download file message.
+[22:12:50:437] [INFO] - Server: Download successfully.
+[22:12:52:075] [INFO] - Server: Received download file message.
+[22:12:52:076] [INFO] - Server: Download successfully.
+[22:12:52:569] [INFO] - Server: Received upload file message.
+[22:12:52:570] [INFO] - Server: Upload file successfully.
+[22:12:52:572] [INFO] - Server: Received message for viewing folder contents.
+[22:12:52:575] [INFO] - Server: Received download file message.
+[22:12:52:575] [INFO] - Server: Download successfully.
+[22:12:52:578] [INFO] - Server: Received download file message.
+[22:12:52:578] [INFO] - Server: Download successfully.
+[22:13:03:000] [INFO] - Server: Received message for viewing folder contents.
+[22:13:04:247] [INFO] - Server: Received message for viewing folder contents.
+[22:13:04:250] [INFO] - Server: Received download file message.
+[22:13:04:251] [INFO] - Server: Download successfully.
+[22:13:04:253] [INFO] - Server: Received download file message.
+[22:13:04:253] [INFO] - Server: Download successfully.
+[22:13:53:920] [INFO] - Server: Received login message.
+[22:13:53:945] [INFO] - Server: Received message for viewing folder contents.
+[22:13:53:952] [INFO] - Server: Received download file message.
+[22:13:53:952] [INFO] - Server: Download successfully.
+[22:13:53:959] [INFO] - Server: Received download file message.
+[22:13:53:959] [INFO] - Server: Download successfully.
+[22:14:11:388] [INFO] - Server: Received signup message.
+[22:14:11:897] [INFO] - Server: Received login message.
+[22:14:11:906] [INFO] - Server: Received message for viewing folder contents.
+[22:14:11:913] [INFO] - Server: Received download file message.
+[22:14:11:913] [INFO] - Server: Download successfully.
+[22:14:21:776] [INFO] - Server: Received download file message.
+[22:14:21:777] [INFO] - Server: Download successfully.
+[22:14:26:609] [INFO] - Server: Received concurrent editing request.

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- ALL<TRACE<DEBUG<INFO<WARN<ERROR<FATAL<OFF-->
+<Configuration status="WARN" minimalInterval="30"> 
+    <Properties>
+        <Property name="LOG_PATH">logs</Property>
+    </Properties>
+
+    <Appenders> 
+        <Console name="Console" target="SYSTEM_OUT">
+            <ThresholdFilter level="error" onMatch="ACCEPT" onMisMatch="DENY"/> 
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/> 
+        </Console>
+
+        <RollingFile name="Server_Info" fileName="${LOG_PATH}/server.log"
+                    filePattern="${LOG_PATH}/%d{yyyy-MM}/server-%d{yyyy-MM-dd}-%i.log">
+            <ThresholdFilter level="info" onMatch="ACCEPT" onMisMatch="DENY"/>
+            <PatternLayout pattern="[%d{HH:mm:ss:SSS}] [%p] - %m%n"/>
+             <Policies>
+                 <TimeBasedTriggeringPolicy/>
+                 <SizeBasedTriggeringPolicy size="10 MB"/>
+             </Policies>
+         </RollingFile>
+
+         <RollingFile name="Edit_Info" fileName="${LOG_PATH}/edit.log"
+                    filePattern="${LOG_PATH}/%d{yyyy-MM}/edit-%d{yyyy-MM-dd}-%i.log">
+            <ThresholdFilter level="info" onMatch="ACCEPT" onMisMatch="DENY"/>
+            <PatternLayout pattern="[%d{HH:mm:ss:SSS}] [%p] - %m%n"/>
+             <Policies>
+                 <TimeBasedTriggeringPolicy/>
+                 <SizeBasedTriggeringPolicy size="10 MB"/>
+             </Policies>
+         </RollingFile>
+
+         <RollingFile name="Client_Info" fileName="${LOG_PATH}/client.log"
+                    filePattern="${LOG_PATH}/%d{yyyy-MM}/client-%d{yyyy-MM-dd}-%i.log">
+            <ThresholdFilter level="info" onMatch="ACCEPT" onMisMatch="DENY"/>
+            <PatternLayout pattern="[%d{HH:mm:ss:SSS}] [%p] - %m%n"/>
+             <Policies>
+                 <TimeBasedTriggeringPolicy/>
+                 <SizeBasedTriggeringPolicy size="10 MB"/>
+             </Policies>
+         </RollingFile>
+
+        <!--
+         <RollingFile name="RollingFileWarn" fileName="${LOG_PATH}\warn.log"
+                    filePattern="${LOG_PATH}\$${data:yyyy-MM}\warn-%d{yyyy-MM-dd-%i.log">
+            <ThresholdFilter level="warn" onMatch="ACCEPT" onMisMatch="DENY"/>
+            <PatternLayout pattern="[%d{HH:mm:ss:SSS}] [%p] - %l - %m%n"/>
+             <Policies>
+                 <TimeBasedTriggeringPolicy/>
+                 <SizeBasedTriggeringPolicy size="10 MB"/>
+             </Policies>
+         </RollingFile>
+
+        <RollingFile name="RollingFileError" fileName="${LOG_PATH}\error.log"
+                    filePattern="${LOG_PATH}\$${data:yyyy-MM}\error-%d{yyyy-MM-dd-%i.log">
+            <ThresholdFilter level="error" onMatch="ACCEPT" onMisMatch="DENY"/>
+            <PatternLayout pattern="[%d{HH:mm:ss:SSS}] [%p] - %l - %m%n"/>
+             <Policies>
+                 <TimeBasedTriggeringPolicy/>
+                 <SizeBasedTriggeringPolicy size="10 MB"/>
+             </Policies>
+         </RollingFile>
+         -->
+    </Appenders>
+
+    <Loggers>
+        <Logger name="server.com.ServerHelper" additivity="false" level="info" >
+            <AppenderRef ref="Server_Info"/>
+        </Logger>
+        <Logger name="server.com.ConcurrentEditHandler" additivity="false" level="info" >
+            <AppenderRef ref="Edit_Info"/>
+        </Logger>
+        <Logger name="server.tests" additivity="false" level="info" >
+            <AppenderRef ref="Server_Info"/>
+        </Logger>
+        <Logger name="client.com" additivity="false" level="info" >
+            <AppenderRef ref="Client_Info"/>
+        </Logger>
+        <Logger name="client.tests" additivity="false" level="info" >
+            <AppenderRef ref="Client_Info"/>
+        </Logger>
+
+        <Root level="info"> 
+            <AppenderRef ref="Console"/> 
+        </Root> 
+    </Loggers>  
+</Configuration>

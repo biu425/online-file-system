@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Client2",
+            "request": "launch",
+            "mainClass": "client.tests.Client2",
+            "projectName": "OnlineFile_final_65b013db"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClientMain",
+            "request": "launch",
+            "mainClass": "client.tests.ClientMain",
+            "projectName": "OnlineFile_final_65b013db"
+        },
+        {
+            "type": "java",
+            "name": "Launch fileStorage",
+            "request": "launch",
+            "mainClass": "framework.view.fileStorage",
+            "projectName": "OnlineFile_final_65b013db"
+        },
+        {
+            "type": "java",
+            "name": "Launch invitationPage",
+            "request": "launch",
+            "mainClass": "framework.view.invitationPage",
+            "projectName": "OnlineFile_final_65b013db"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllUserTest",
+            "request": "launch",
+            "mainClass": "server.tests.AllUserTest",
+            "projectName": "OnlineFile_final_65b013db"
+        },
+        {
+            "type": "java",
+            "name": "Launch ServerMain",
+            "request": "launch",
+            "mainClass": "server.tests.ServerMain",
+            "projectName": "OnlineFile_final_65b013db"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserTest",
+            "request": "launch",
+            "mainClass": "server.tests.UserTest",
+            "projectName": "OnlineFile_final_65b013db"
+        }
+    ]
+}

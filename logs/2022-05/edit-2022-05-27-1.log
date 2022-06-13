@@ -1,0 +1,7 @@
+[22:14:26:608] [INFO] - Client: Send Invitation To [222222]
+[22:14:26:610] [INFO] - Server: requesting: recieved message from client for concurrent editing
+[22:14:26:610] [INFO] - Server: the original file path: //111111/firstfile.txt
+[22:14:26:610] [INFO] - Server: filename: firstfile.txt
+[22:14:26:610] [INFO] - Server: file owner: 111111
+[22:14:26:610] [INFO] - Server: Concurrent editUserList: [111111, 222222]
+[22:14:41:401] [INFO] - Client: Send Invitation To [222222]
